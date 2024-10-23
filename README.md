@@ -1,2 +1,2 @@
-# catholic-chatbot-proxy
-Proxy static website to redirect to the Catholic chatbot site.
+# Catholic Chatbot Proxy
+Dtatic website to redirect to the Catholic chatbot site using a custom domain.
